@@ -1,4 +1,4 @@
-# Madlibs-Game-project
+# Mad Libs-Game-project
 
 A fun, interactive word game where players fill in blanks with random words (nouns, verbs, adjectives, etc.) without knowing the story context — resulting in a silly, unpredictable story once revealed.
 
